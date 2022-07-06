@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
-<h3 align="center">A passionate full-stack developer from Ontario</h3>
+<h3 align="center">A passionate full-stack developer from Kitchener, Ontario</h3>
 
 - 👨‍💻 All of my projects are available at [https://brandonbentley.netlify.app](https://brandonbentley.netlify.app)
 
