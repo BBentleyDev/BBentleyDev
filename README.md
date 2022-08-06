@@ -94,7 +94,7 @@
   </tr> -->
 </table>
 
-<p><img width="49%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bbentleydev&show_icons=true&locale=en&layout=compact" alt="bbentleydev" /></p>
+<p><img width="48.5%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bbentleydev&show_icons=true&locale=en&layout=compact" alt="bbentleydev" /></p>
 
-<p><img width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bbentleydev&" alt="bbentleydev" /></p>
+<p><img width="48.5%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bbentleydev&" alt="bbentleydev" /></p>
 
