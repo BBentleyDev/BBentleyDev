@@ -21,7 +21,7 @@
       <h3 align="center">Mystique Salon</h3>
         <br />
         <a target="_blank" href="https://mystiquesalon.netlify.app/">
-            <img src="TODO" width="100%" alt="front page"/>
+            <img src="readme-thumbnails/salon.png" width="100%" alt="front page"/>
         </a>
         <br />
         <p align="center">
@@ -38,7 +38,7 @@
       <h3 align="center">Full Time Fitness</h3>
         <br />
         <a target="_blank" href="https://fulltimefitness.netlify.app/">
-            <img src="TODO" width="100%" alt="front page"/>
+            <img src="readme-thumbnails/fitness.png" width="100%" alt="front page"/>
         </a>
         <br />
         <p align="center">
