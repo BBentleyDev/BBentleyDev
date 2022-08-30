@@ -18,21 +18,21 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Abstraction by Steven Kroenkae</h3>
+      <h3 align="center">Mystique Salon</h3>
         <br />
-        <a target="_blank" href="https://stevekroenkae.netlify.app/">
+        <a target="_blank" href="https://mystiquesalon.netlify.app/">
             <img src="TODO" width="100%" alt="front page"/>
         </a>
         <br />
         <p align="center">
-            <a href="https://github.com/BBentleyDev/abstraction-kroenkae" target="_blank">
+            <a href="https://github.com/BBentleyDev/mystique-salon" target="_blank">
               <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
             </a>
           <a href="https://stevekroenkae.netlify.app/" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
           </a>
         </p>
-        <p>HTML, CSS and JS - A website design to showcase Steve Kroenkae's work</p>
+        <p>HTML, CSS and JS - A website design for an upscale salon.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Full Time Fitness</h3>
