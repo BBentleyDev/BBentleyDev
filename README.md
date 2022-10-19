@@ -18,10 +18,10 @@
 <table bordercolor="#66b2b2">
   <tr>
    <td width="50%" valign="top">
-      <h3 align="center">Mystique Salon</h3>
+      <h3 align="center">MyMovies</h3>
         <br />
         <a target="_blank" href="...">
-            <img src="readme-thumbnails/movies.png" width="100%" alt="front page"/>
+            <img src="readme-thumbnails/movies.png" width="100%" alt="MyMovies image"/>
         </a>
         <br />
         <p align="center">
@@ -34,11 +34,30 @@
         </p>
         <p>EJC, CSS, JS, MongoDB, Node, Express - A full-stack web application for movie journalling.</p>
     </td>
+       <td width="50%" valign="top">
+      <h3 align="center">BugTrak</h3>
+        <br />
+        <a target="_blank" href="...">
+            <img src="readme-thumbnails/bug.png" width="100%" alt="BugTrak image"/>
+        </a>
+        <br />
+        <p align="center">
+            <a href="https://github.com/BBentleyDev/MyMovies" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+            </a>
+          <a href="..." target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
+        <p>EJC, CSS, JS, MongoDB, Node, Express - A full-stack web application for movie journalling.</p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Mystique Salon</h3>
         <br />
         <a target="_blank" href="https://mystiquesalon.netlify.app/">
-            <img src="readme-thumbnails/salon.png" width="100%" alt="front page"/>
+            <img src="readme-thumbnails/salon.png" width="100%" alt="salon image"/>
         </a>
         <br />
         <p align="center">
@@ -55,11 +74,10 @@
       <h3 align="center">Full Time Fitness</h3>
         <br />
         <a target="_blank" href="https://fulltimefitness.netlify.app/">
-            <img src="readme-thumbnails/fitness.png" width="100%" alt="front page"/>
+            <img src="readme-thumbnails/fitness.png" width="100%" alt="fitness image"/>
         </a>
         <br />
-        <p align="center">
-          
+        <p align="center">       
   <a href="https://github.com/BBentleyDev/full-time-fitness" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
