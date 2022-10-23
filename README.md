@@ -38,11 +38,11 @@
       <h3 align="center">BugTrak</h3>
         <br />
         <a target="_blank" href="...">
-            <img src="readme-thumbnails/bug.png" width="100%" alt="BugTrak image"/>
+            <img src="readme-thumbnails/bugtrak.PNG" width="100%" alt="BugTrak image"/>
         </a>
         <br />
         <p align="center">
-            <a href="..." target="_blank">
+            <a href="https://github.com/BBentleyDev/BugTrak" target="_blank">
               <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
             </a>
           <a href="..." target="_blank">
