@@ -41,7 +41,7 @@
        <td width="50%" valign="top">
       <h3 align="center">BugTrak</h3>
         <br />
-        <a target="_blank" href="...">
+        <a target="_blank" href="https://github.com/BBentleyDev/BugTrak">
             <img src="readme-thumbnails/bugtrak.PNG" width="100%" alt="BugTrak image"/>
         </a>
         <br />
