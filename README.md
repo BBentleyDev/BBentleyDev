@@ -1,6 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Brandon</h1>
 <h3 align="center">A full-stack web developer from Ontario</h3>
 
+- 🔭 I’m currently working on [MyMovies](https://github.com/BBentleyDev/MyMovies)
+
+- 🌱 I’m currently learning **Material UI**
+
 - 👨‍💻 All of my projects are available at [https://brandonbentley.netlify.app](https://brandonbentley.netlify.app)
 
 - 📫 How to reach me **bbentleydev@gmail.com**
@@ -20,7 +24,7 @@
    <td width="50%" valign="top">
       <h3 align="center">MyMovies</h3>
         <br />
-        <a target="_blank" href="...">
+        <a target="_blank" href="https://github.com/BBentleyDev/MyMovies">
             <img src="readme-thumbnails/movies.png" width="100%" alt="MyMovies image"/>
         </a>
         <br />
