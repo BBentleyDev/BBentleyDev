@@ -25,7 +25,7 @@
       <h3 align="center">MyMovies</h3>
         <br />
         <a target="_blank" href="https://mymovies-webapp.herokuapp.com/">
-            <img src="readme-thumbnails/movies.png" width="100%" alt="MyMovies image"/>
+            <img src="readme-thumbnails/moviesNew.png" width="100%" alt="MyMovies image"/>
         </a>
         <br />
         <p align="center">
