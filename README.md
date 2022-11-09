@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MyMovies](https://github.com/BBentleyDev/MyMovies)
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **Material UI**
 
 - 👨‍💻 All of my projects are available at [https://brandonbentley.netlify.app](https://brandonbentley.netlify.app)
 
