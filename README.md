@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BugTrak](https://github.com/BBentleyDev/BugTrak)
 
-- 🌱 I’m currently learning **Material UI**
+- 🌱 I’m currently learning **Material UI & AWS**
 
 - 👨‍💻 All of my projects are available at [https://brandonbentley.netlify.app](https://brandonbentley.netlify.app)
 
