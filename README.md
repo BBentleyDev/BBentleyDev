@@ -24,7 +24,7 @@
    <td width="50%" valign="top">
       <h3 align="center">MyMovies</h3>
         <br />
-        <a target="_blank" href="https://mymovies-webapp.herokuapp.com/">
+        <a target="_blank" href="https://github.com/BBentleyDev/MyMovies">
             <img src="readme-thumbnails/moviesNew.png" width="100%" alt="MyMovies image"/>
         </a>
         <br />
@@ -32,7 +32,7 @@
             <a href="https://github.com/BBentleyDev/MyMovies" target="_blank">
               <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
             </a>
-          <a href="https://mymovies-webapp.herokuapp.com/" target="_blank">
+          <a href="https://mymovies-webapp.onrender.com/" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
           </a>
         </p>
@@ -46,10 +46,10 @@
         </a>
         <br />
         <p align="center">
-            <a href="https://bentleybugtrak.herokuapp.com/" target="_blank">
+            <a href="https://github.com/BBentleyDev/BugTrak" target="_blank">
               <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
             </a>
-          <a href="https://bentleybugtrak.herokuapp.com/" target="_blank">
+          <a href="https://bentleybugtrak.onrender.com/" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
           </a>
         </p>
