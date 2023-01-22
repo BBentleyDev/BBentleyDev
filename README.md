@@ -49,7 +49,7 @@
             <a href="https://github.com/BBentleyDev/BugTrak" target="_blank">
               <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
             </a>
-          <a href="https://bentleybugtrak.onrender.com/" target="_blank">
+          <a href="https://bentleybugtrak-api.onrender.com" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
           </a>
         </p>
